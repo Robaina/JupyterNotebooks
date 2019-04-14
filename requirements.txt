@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 
-Cython==0.29.7
+cython==0.29.*
 hmms==0.1
 ipywidgets==7.2.1
 matplotlib==3.0.2
