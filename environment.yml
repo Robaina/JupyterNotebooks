@@ -1,0 +1,13 @@
+dependencies:
+  - matplotlib
+  - ipywidgets
+  - numpy
+  - pandas
+  - scipy
+  - cython
+  - sympy
+  - pip
+  - hmms
+  - pip:
+      - julia
+      - cffi_magic

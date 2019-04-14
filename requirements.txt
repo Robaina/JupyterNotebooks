@@ -5,10 +5,8 @@
 hmms==0.1
 ipywidgets==7.2.1
 matplotlib==3.0.2
-nbinteract==0.2.4
 numpy==1.16.0
 pandas==0.24.0
-scikit-learn==0.19.1
 scipy==1.1.0
 sympy==1.1.1
 Cython==0.29.7
