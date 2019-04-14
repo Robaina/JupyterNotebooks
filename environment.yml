@@ -1,11 +1,11 @@
 dependencies:
   - matplotlib
-  - cython
+  #- cython
   - numpy
   - pandas
   - scipy
   - sympy
   - ipywidgets
-  - pip
-  - pip:
-    - hmms
+#  - pip
+#  - pip:
+#    - hmms
