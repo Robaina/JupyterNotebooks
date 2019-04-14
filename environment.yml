@@ -4,8 +4,8 @@ dependencies:
   - numpy
   - pandas
   - scipy
-  - sympy
   - ipywidgets
-#  - pip
-#  - pip:
+  - pip
+  - pip:
+    - sympy
 #    - hmms
